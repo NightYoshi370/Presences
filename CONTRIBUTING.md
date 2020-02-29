@@ -52,9 +52,11 @@ Before you begin working on your presence, keep the following list in mind.
 
 In some situations, presences may behave unexpectedly or could use some minor changes to improve its functionality. Here is a compiled list that you **MUST** follow to modify presences.
 - You are not allowed rewrite a presence or change it's author. If the presence author was banned from the official server or hasn't made required changes in a 7 day period, you may contact a PreMiD `Presence Verifier` to see if you are applicable to rewrite the presence of choice. 
+- Anyone may provide hotfixes to fix bugs, however, try **NOT** to make changes to code that does not need to be fixed. Valid modifications are, but not limited to, *missing paths*, *typos*, *missing images*, etc...
 - If you make modifications to a presence and change at least a **QUARTER** of the presence's codebase, you are allowed to add yourself as a contributor. Contact a `Presence Verifier` for more information about this subject.
 - Make sure the modifications are useful. These may include fixes (code and typos),  additions (descriptions and tags), etc... Do not change images if they are not outdated and have a decent resolution.
 - Confirm that your changes work before publishing. Do not create pull requests without knowing the outcome of your changes.
+- Maintain the language the presence author used when writing the presence. For example, do **NOT** delete typescript files and use the javascript files instead.
 
 # Verification
 
